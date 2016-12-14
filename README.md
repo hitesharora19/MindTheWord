@@ -14,7 +14,7 @@ Since only a few words are translated, it is easy to infer their meaning from
 the context.
 
 Read more in
-[Description.md](Description.md).
+(Description.md).
 
 Testing
 -------
